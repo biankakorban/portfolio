@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/biankakorban-portfolio/static/css/main.ff3843fd.chunk.css",
+    "main.js": "/biankakorban-portfolio/static/js/main.959226d2.chunk.js",
+    "main.js.map": "/biankakorban-portfolio/static/js/main.959226d2.chunk.js.map",
+    "runtime-main.js": "/biankakorban-portfolio/static/js/runtime-main.cf619724.js",
+    "runtime-main.js.map": "/biankakorban-portfolio/static/js/runtime-main.cf619724.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/biankakorban-portfolio/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a11f37a2.chunk.js": "/biankakorban-portfolio/static/js/2.a11f37a2.chunk.js",
+    "static/js/2.a11f37a2.chunk.js.map": "/biankakorban-portfolio/static/js/2.a11f37a2.chunk.js.map",
+    "index.html": "/biankakorban-portfolio/index.html",
+    "precache-manifest.e0d39793349fb9fd84dc4bc91bef7908.js": "/biankakorban-portfolio/precache-manifest.e0d39793349fb9fd84dc4bc91bef7908.js",
+    "service-worker.js": "/biankakorban-portfolio/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/biankakorban-portfolio/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ff3843fd.chunk.css.map": "/biankakorban-portfolio/static/css/main.ff3843fd.chunk.css.map",
+    "static/js/2.a11f37a2.chunk.js.LICENSE.txt": "/biankakorban-portfolio/static/js/2.a11f37a2.chunk.js.LICENSE.txt",
+    "static/media/github6.png": "/biankakorban-portfolio/static/media/github6.fcb65360.png",
+    "static/media/image-bg.jpg": "/biankakorban-portfolio/static/media/image-bg.03c66be3.jpg",
+    "static/media/profile_image.png": "/biankakorban-portfolio/static/media/profile_image.5a054efc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf619724.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a11f37a2.chunk.js",
+    "static/css/main.ff3843fd.chunk.css",
+    "static/js/main.959226d2.chunk.js"
+  ]
+}
